@@ -69,8 +69,8 @@ Phase 3: 2D Environment Design 🌍
  Add environmental objects with effects
 
 👥 Team
-Project Team Members:
+# Project Team Members:
 
-# Kamelia Mohmmadi
-# Guillaume Bomben
-# Ali Abakar Issa
+- Kamelia Mohmadi
+- Guillaume Bomben
+- Ali Abakar Issa
