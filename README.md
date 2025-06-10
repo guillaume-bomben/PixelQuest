@@ -71,6 +71,6 @@ Phase 3: 2D Environment Design 🌍
 👥 Team
 # Project Team Members:
 
-- Kamelia Mohmadi
+- Kamelia Mohamdi
 - Guillaume Bomben
 - Ali Abakar Issa
