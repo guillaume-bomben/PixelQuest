@@ -24,9 +24,8 @@ Specific objects with shadows and reflections
 🎪 Presentation
 
 
-🛠️ Technologies Used
-ToolPurposeDescriptionAfficher l'imagePixel ArtSpecialized software for pixel art and animated sprites creationAfficher l'image2D DesignAdvanced image editing for detailed 2D environmentsAfficher l'imageStructurePresentation framework and layoutAfficher l'imageStylingAdvanced animations, gradients, and responsive designAfficher l'imageInteractivityNavigation controls and dynamic content
 📁 Project Structure
+
 pixel-quest/
 │
 ├
@@ -38,10 +37,6 @@ pixel-quest/
 ├── 📁 Pixel Arts/           # Character sprites (32x32)
 
 🚀 Getting Started
-Prerequisites
-
-Modern web browser (Chrome, Firefox, Safari, Edge)
-VS Code or any code editor
 
 Installation
 
